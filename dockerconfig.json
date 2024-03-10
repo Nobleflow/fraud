@@ -1,0 +1,10 @@
+{
+  "auths": {
+    "docker.io": {
+      "username": "nabilharboul",
+      "password": "nabil1234",
+      "email": "nabil.harboul@gmail.com",
+      "auth": "base64_encoded_credentials"
+    }
+  }
+}
